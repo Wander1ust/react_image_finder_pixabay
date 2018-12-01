@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Test Image 7](https://github.com/Wander1ust/react_image_finder_pixabay/blob/master/pixabay.PNG)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
